@@ -42,6 +42,15 @@ Les logs sont dans le dossier `/srv/mc/minecraft/logs`
 Connectez vous avec le client ftp sur le vps et remplacer le server.jar avec celui voulu
 Vérifiez régulièrement la version avec `/ver`  
 
+## Bot Discord
+
+-Allumer le bot
+
+`Accéder` au screen du bot => screen -r discord
+cd /srv/discord
+node index.js
+`Sortir du screen` => Ctrl+A+D
+
 ## Contact
 
 Vous pouvez me contacter sur discord, via mon adresse email ou mon numéro de téléphone
