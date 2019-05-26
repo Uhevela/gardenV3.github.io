@@ -4,7 +4,7 @@ layout: default
 
 # Administrer Garden  
 ## Les commandes de base 
- 
+
 `Console` => screen -x mc-survival
 
 `Stop` => systemctl stop mcserver@survival
@@ -36,3 +36,20 @@ Vérifiez régulièrement la version avec `/ver`
 ##contacte
 
 Vous pouvez me contacter sur discord, via mon adresse email ou mon numéro de téléphone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Ps: Tu crains)
