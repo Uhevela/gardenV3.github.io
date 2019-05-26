@@ -3,7 +3,8 @@ layout: default
 ---
 
 # Administrer Garden  
-## Les commandes de base  
+## Les commandes de base 
+ 
 `Console` => screen -x mc-survival
 
 `Stop` => systemctl stop mcserver@survival
