@@ -47,8 +47,11 @@ Vérifiez régulièrement la version avec `/ver`
 -Allumer le bot
 
 `Accéder` au screen du bot => screen -r discord
+
 cd /srv/discord
+
 node index.js
+
 `Sortir du screen` => Ctrl+A+D
 
 ## Contact
