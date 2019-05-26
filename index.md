@@ -4,10 +4,10 @@ layout: default
 
 # Administrer Garden  
 ## Les commandes de base  
-=> screen -x mc-survival
-=> systemctl stop mcserver@survival Ca stop
-=> systemctl restart mcserver@survival Ca restart
-=> systemctl start mcserver@survival Ca start après un stop
+`Console` => screen -x mc-survival
+`Stop` => systemctl stop mcserver@survival
+`Restart` => systemctl restart mcserver@survival 
+`Start` => systemctl start mcserver@survival 
  
 ## Les fichiers  
 Le serveur est lancé par le root dans le répertoire `/srv/mc/survival`     
