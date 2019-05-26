@@ -44,15 +44,15 @@ Vérifiez régulièrement la version avec `/ver`
 
 ## Bot Discord
 
--Allumer le bot
+- Allumer le bot
 
-`Accéder` au screen du bot => screen -r discord
+1. `Accéder` au screen du bot => screen -r discord
 
-cd /srv/discord
+2. cd /srv/discord
 
-node index.js
+3. node index.js
 
-`Sortir du screen` => Ctrl+A+D
+4. `Sortir du screen` => Ctrl+A+D
 
 ## Contact
 
