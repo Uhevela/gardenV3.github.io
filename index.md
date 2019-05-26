@@ -33,7 +33,7 @@ Les logs sont dans le dossier `/srv/mc/minecraft/logs`
 Connectez vous avec le client ftp sur le vps et remplacer le server.jar avec celui voulu
 Vérifiez régulièrement la version avec `/ver`  
 
-## contacte
+## Contacte
 
 Vous pouvez me contacter sur discord, via mon adresse email ou mon numéro de téléphone
 
